@@ -60,6 +60,7 @@ USA
 | Rocky | YouTuber ||
 | Linda | YouTuber | https://www.youtube.com/channel/UC2Ir2sdKZ4fTr6xo5J9SuVw |
 | Dewang Cao | CEO, 福耀玻璃 ||
+| Jessie | YouTuber | [@ChinesewithJessie](https://www.youtube.com/@ChinesewithJessie) |
 
 Canada
 
