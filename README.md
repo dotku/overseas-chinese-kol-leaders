@@ -1,3 +1,7 @@
+> **本仓库已归档，不再更新。** 名单已迁移到 [jytechllc/asian-leaders-alliance](https://github.com/jytechllc/asian-leaders-alliance) 继续维护，在线浏览：**[世界华人名人录](https://asian-leaders.jytech.us)**。
+>
+> **Archived.** This list has moved to [jytechllc/asian-leaders-alliance](https://github.com/jytechllc/asian-leaders-alliance). Browse it at **[asian-leaders.jytech.us](https://asian-leaders.jytech.us)**.
+
 # Overseas Chinese Leaders
 
 很多人说中国人在海外存在 Glass Ceiling / Bamboo Ceiling (玻璃天花板)，到底如何突破这层的天花板呢？
